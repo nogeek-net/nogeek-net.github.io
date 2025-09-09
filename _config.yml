@@ -164,9 +164,12 @@ friends: [
     title: "openai-dell-2",
     href: "/other/openai/dell-2/"
   },
-   {
+  {
     title: "nogeek.cn",
     href: "https://nogeek.cn"
+  },
+  {
+    title: "drchecker.net",
+    href: "https://drchecker.net"
   }
-
 ]
